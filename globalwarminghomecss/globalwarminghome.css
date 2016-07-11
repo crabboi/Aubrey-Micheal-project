@@ -4,6 +4,7 @@
 	font-size: 30pt;
 	color: blue;
 	border:2pt solid rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
 }
 body{
 	background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/38/Blue_ice_in_South_Greenland_-_Visit_Greenland.jpg);
@@ -11,4 +12,15 @@ body{
 li{
 	display: inline;
 	font-size: 23pt;
+}
+ul{
+	background-color: rgb(255, 255, 255);
+	border:3pt solid rgb(255, 255, 255);
+}
+p{
+	font-size: 22pt;
+	position: center;
+	width: 400px;
+	border: 5pt solid rgb(255, 255, 255);
+	background-color: rgb(255, 255, 255);
 }
