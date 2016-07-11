@@ -2,7 +2,7 @@
 	width:200px;
 	height: 100px;
 	font-size: 30pt;
-	color: blue;
+	color: rgb(179, 255, 255);
 	border:2pt solid rgb(255, 255, 255);
 	background-color: rgb(255, 255, 255);
 }
@@ -19,8 +19,16 @@ ul{
 }
 p{
 	font-size: 22pt;
-	position: center;
 	width: 400px;
 	border: 5pt solid rgb(255, 255, 255);
 	background-color: rgb(255, 255, 255);
+	color: rgb(179, 255, 255);
+}
+#bear{
+	float: right;
+}
+#walrus{
+	float: left;
+	width: 300px;
+	height: 300px;
 }
