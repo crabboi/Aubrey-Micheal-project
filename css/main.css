@@ -61,5 +61,7 @@ color: orange;
     -ms-filter: "FlipH";
     filter: FlipH;
 }
+a {
+	color:gold;
 }
 
