@@ -1,0 +1,50 @@
+h1{
+	padding: 2pt 2pt 2pt 2pt;
+	border:5pt solid grey;
+	background-color: grey;
+	width: 400px;
+	font-size: 40pt;
+}
+.top{
+	list-style-type: none;
+	display: inline;
+	padding: 1px 5px 1px 5px;
+	margin:0px 3px 0px 3px;
+	font-size: 30pt;
+}
+.upper{
+	background-color: grey;
+}
+.wrap{
+	font-size: 35pt;
+}
+#frog{
+	width:600px;
+	height: 700px;
+	float: left;
+	border: 3pt solid grey;
+	background-color: grey;
+}
+#frug{
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+
+#mmx4space{
+	background-image: url(../selfbackgrounds/mmx4space.gif);
+	background-repeat: no-repeat
+}
+.mystory{
+	float:left;
+	width: 400px;
+	height: 200px;
+	font-size: 20pt;
+	color: 
+}
+#story{
+	background-image: url(../selfbackgrounds/sf3alexstage.png);
+}
+#kuririn{
+	float: right;
+}
